@@ -1,7 +1,7 @@
-# whack-a-mole
-A simple wack-a-mole game in JavaScript
+# Whack-A-Mole!
+A wack-a-mole game in JavaScript. Open index.html using any browser.
 
-Technologies Used: 
+# Technologies Used: 
 HTML, CSS, JavaScript
 
 Notable Features:

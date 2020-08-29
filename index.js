@@ -22,7 +22,7 @@ function whack(clickEvent){
         clickEvent.target.classList.remove("mole");
     }
     // win condition
-    if(score == 2){
+    if(score == 20){
         // prompt user
         alert("You won!");
         // clearInterval
